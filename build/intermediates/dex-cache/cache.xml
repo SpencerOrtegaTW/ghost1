@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_c6fba134e8659b38456c7e56133e958935f1d8c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a633ac611cd8655a02158d2e43bfe6f82a43671a">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4d9f08e767280f10eecc8a76786b4b62c79118b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fea9da7d429a7e47a607a2c90f7f28b12fd67a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_ea9cda4618273068b26943e2f50c6ed515f77045/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_53c9b8fc07f6ce00ebd86f1f7e26cd76bf8bcf63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_1e05d65bd6033ee2547e8d093d32ac698bfe7374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_97494d0ae0e99135f494bd777caaf6a28b1adb99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5a973dff2f6bac72a39a9222112a9acfa8f21cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_077c89493d72b52fb7bfb61c252f8d6d3ec24419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25c60b627e1637bef083f2868738e8e9c3d708fd">
+        <dex dex="/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bacbcdc29802be20a8647427fee74f30159fb11b/classes.dex" />
+    </item>
+
+</items>

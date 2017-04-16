@@ -1,0 +1,7 @@
+#Sat Apr 08 15:53:38 PDT 2017
+base.0=/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4d9f08e767280f10eecc8a76786b4b62c79118b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bacbcdc29802be20a8647427fee74f30159fb11b/classes.dex
+base.1=/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bacbcdc29802be20a8647427fee74f30159fb11b
+file.0=/Users/dpt1/Desktop/AndoridWithGoogle/ghost_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d4d9f08e767280f10eecc8a76786b4b62c79118b/classes.dex
